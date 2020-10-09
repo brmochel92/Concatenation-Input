@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\esolu\\Documents\\Programming\\C#\\Github\\Concatenation-Input-Manipulation\\Concatenation-Input-Manipulation\\Concatenation-Input-Manipulation\\Concatenation-Input-Manipulation.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\esolu\\Documents\\Programming\\C#\\Github\\Concatenation-Input-Manipulation\\Concatenation-Input-Manipulation\\Concatenation-Input-Manipulation\\Concatenation-Input-Manipulation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\esolu\\Documents\\Programming\\C#\\Github\\Concatenation-Input-Manipulation\\Concatenation-Input-Manipulation\\Concatenation-Input-Manipulation\\Concatenation-Input-Manipulation.csproj",
+        "projectName": "Concatenation-Input-Manipulation",
+        "projectPath": "C:\\Users\\esolu\\Documents\\Programming\\C#\\Github\\Concatenation-Input-Manipulation\\Concatenation-Input-Manipulation\\Concatenation-Input-Manipulation\\Concatenation-Input-Manipulation.csproj",
+        "packagesPath": "C:\\Users\\esolu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\esolu\\Documents\\Programming\\C#\\Github\\Concatenation-Input-Manipulation\\Concatenation-Input-Manipulation\\Concatenation-Input-Manipulation\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\esolu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
